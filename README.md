@@ -2,7 +2,7 @@
 
 **`Foco em Desenvolvimento FullStack`**
 
-Me chamo Maria, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou graduando em Engenharia da Computação na Uninter e cursando tecnico em Desenvolvimento de Sistemas no IFB. Sou apaixonada por tecnologia e jogos.
+Me chamo Maria, tenho 21 ano e atualmente estou graduando em Engenharia da Computação na Uninter e cursando tecnico em Desenvolvimento de Sistemas no IFB. Sou apaixonado por tecnologia e jogos.
 
 
 ---
