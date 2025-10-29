@@ -67,8 +67,8 @@ Me chamo Maria, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" 
