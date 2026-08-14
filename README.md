@@ -2,7 +2,7 @@
 
 **`Foco em Desenvolvimento FullStack`**
 
-Me chamo Maria, tenho 21 ano e atualmente estou graduando em Engenharia da Computação na Uninter e cursando tecnico em Desenvolvimento de Sistemas no IFB. Sou apaixonado por tecnologia e jogos.
+Me chamo Maria, tenho 21 ano possuo tecnico em Desenvolvimento de Sistemas no IFB e estou graduando em Engenharia da Computação na Uninter. Meu foco é em Desenvolvimento Full-Stack, Dados e Cibersegurança.
 
 
 ---
