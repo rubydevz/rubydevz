@@ -1,8 +1,8 @@
 # Prazer 👋
 
-**`Foco em Desenvolvimento FullStack`**
+**`Foco em Desenvolvimento FullStack, Dados e Cibersegurança`**
 
-Me chamo Maria, tenho 21 ano possuo tecnico em Desenvolvimento de Sistemas no IFB e estou graduando em Engenharia da Computação na Uninter. Meu foco é em Desenvolvimento Full-Stack, Dados e Cibersegurança.
+Me chamo Maria, tenho 21 ano estou graduando em Engenharia da Computação na Uninter e sou técnico em Desenvolvimento de Sistemas pelo Instituto Federal de Brasilia. Compartilho meus projetos e portifolio por meio desse Github.
 
 
 ---
