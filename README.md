@@ -7,13 +7,13 @@
 
 ---
 
-# Olá, eu sou a Maria! 👋
+# Olá, Prazer! 👋
 
 **`Engenharia da Computação | FullStack | Dados | Cibersegurança`**
 
-Sou uma desenvolvedora de 21 anos, apaixonada por tecnologia e resolução de problemas. Atualmente, estou cursando **Engenharia da Computação** na Uninter e sou formada como **Técnica em Desenvolvimento de Sistemas** pelo Instituto Federal de Brasília (IFB). 
+Sou um desenvolvedor de 22 anos, apaixonado por tecnologia e resolução de problemas. Atualmente, estou cursando **Engenharia da Computação** na Uninter e sou formada como **Técnica em Desenvolvimento de Sistemas** pelo Instituto Federal de Brasília (IFB). 
 
-Utilizo este GitHub como meu portfólio pessoal e área de estudos, compartilhando projetos e ideias nas áreas de desenvolvimento de software, análise de dados e segurança da informação. Sinta-se à vontade para explorar! 🚀
+Utilizo este GitHub como meu portfólio pessoal e área de estudos, compartilhando projetos e ideias nas áreas de desenvolvimento de software, análise de dados e segurança da informação. Sinta-se à vontade para explorar! 
 
 ---
 
