@@ -47,11 +47,11 @@ Utilizo este GitHub como meu portfólio pessoal e área de estudos, compartilhan
   <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
   <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;
-  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> &nbsp;
-  <img alt="Power BI" title="Power BI" width="40" src="https://imgs.search.brave.com/VP_9fVL8kyi1GFHgrGxogrbvBvH7G6AVK0mND2avEQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9wb3dlci1i/aS1pY29uLnBuZw"/> &nbsp;
-  <img alt="Power Apps" title="Power Apps" width="40" src="https://imgs.search.brave.com/zmb2nZsVx2mC-EA-q5eIuANjCssEPIxfvlc5wX0vAxQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZlL1Bvd2VyYXBw/cy1sb2dvLnN2Zw" /> &nbsp;
-  <img alt="Power Automate" title="Power Automate" width="40" src="https://imgs.search.brave.com/sMySBlCaZFnXpqfNRAL3z2eDgOTrdQYewHluQw5BEX0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL3NlbGZoc3Qv/aWNvbnMvd2VicC9t/aWNyb3NvZnQtcG93/ZXItYXV0b21hdGUu/d2VicA" /> &nbsp;
-  <img alt="Apache Hop" title="Apache Hop" width="40" src="https://hop.apache.org/tech-manual/latest/_images/logo/RGB/jpg/HOP_logo_RGB-1.jpg" />
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Power BI" title="Power BI" width="40" src="https://imgs.search.brave.com/VP_9fVL8kyi1GFHgrGxogrbvBvH7G6AVK0mND2avEQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9wb3dlci1i/aS1pY29uLnBuZw"/>
+  <img alt="Power Apps" title="Power Apps" width="40" src="https://imgs.search.brave.com/zmb2nZsVx2mC-EA-q5eIuANjCssEPIxfvlc5wX0vAxQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZlL1Bvd2VyYXBw/cy1sb2dvLnN2Zw" />
+  <img alt="Power Automate" title="Power Automate" width="40" src="https://imgs.search.brave.com/sMySBlCaZFnXpqfNRAL3z2eDgOTrdQYewHluQw5BEX0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL3NlbGZoc3Qv/aWNvbnMvd2VicC9t/aWNyb3NvZnQtcG93/ZXItYXV0b21hdGUu/d2VicA" />
+  <img alt="Apache Hop" title="Apache Hop" width="40" src="https://hop.apache.org/tech-manual/latest/_images/logo/RGB/jpg/HOP_logo_RGB-1.jpg"/>
 </p>
 
 ---
