@@ -46,7 +46,7 @@ Utilizo este GitHub como meu portfólio pessoal e área de estudos, compartilhan
 <p align="left">
   <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
   <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;
-  <img alt="Figma" title="Figma" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26R5lnG7PlREOK630t0gQ0WMHv2miHcv9d4pPt_t74Q&s=10" />
+  <img alt="Figma" title="Figma" width="40" src="https://static.vecteezy.com/system/resources/previews/065/386/869/non_2x/figma-circle-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" />
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;
   <img alt="GitHub" title="GitHub" width="40" src="https://imgs.search.brave.com/exEigpJtC_mGU-Wrlxdp5xdGyUnBF2cYKIWc7FErvBw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLm1h/Z25pZmljLmNvbS8y/NTYvMzI5MS8zMjkx/NjY3LnBuZz9nYT1H/QTEuMS4xNzIyNDk1/NjQuMTc4MTk5Mjk5/MyZzZW10PWFpc193/aGl0ZV9sYWJlbA" />
   <img alt="Power BI" title="Power BI" width="40" src="https://imgs.search.brave.com/VP_9fVL8kyi1GFHgrGxogrbvBvH7G6AVK0mND2avEQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9wb3dlci1i/aS1pY29uLnBuZw"/>
