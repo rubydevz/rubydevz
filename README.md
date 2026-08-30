@@ -11,7 +11,7 @@
 
 Curso **Engenharia da Computação** na Uninter e sou formado como **Técnico em Desenvolvimento de Sistemas** pelo Instituto Federal de Brasília (IFB). Atualmente estou estagiando como Desenvolvedor Full Stack e analista de dados.  
 
-Utilizo este GitHub como meu portfólio pessoal e área de estudos, compartilhando projetos e ideias nas áreas de desenvolvimento de software, análise de dados e segurança da informação. Sinta-se à vontade para explorar! 
+Utilizo este GitHub como meu portfólio pessoal e área de estudos, compartilhando projetos e ideias nas áreas de desenvolvimento de software, hardware, jogos, análise de dados e segurança da informação. Sinta-se à vontade para explorar! 
 
 ---
 
